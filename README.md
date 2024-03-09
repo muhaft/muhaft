@@ -35,20 +35,13 @@ const hafz = {
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=e34f26" />
   <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=ython" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" />
   <img src="https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian" /> <br>
 </p>
 
 ___
 ```
-       You Visitors To:
-```
-<p align="center">
-<img align="center" alt="count" src="https://count.getloli.com/get/@:\muhaft?theme=rule34">
-</p>
-
-
 ### Spotify Playing 🎧
 
 <p align="center">
